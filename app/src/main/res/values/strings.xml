@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FireBasePractice</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="emailhint">Please eneter email</string>
+    <string name="pwhint">Please enter password</string>
+    <string name="createbtn">Create new account</string>
+    <string name="SignIn">Sign In</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="SubmitBtn">Submit</string>
+    <string name="SubmitHint">Please enter your eamil address </string>
+    <string name="optionRead">Read Data</string>
+    <string name="optionWrite">Write Data</string>
+    <string name="nameHint">Please enter your name</string>
+    <string name="phonehint">Please enter your phone number</string>
+    <string name="upload">Upload</string>
+</resources>

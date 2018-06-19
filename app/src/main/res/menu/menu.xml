@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/optionRead"
+          android:id="@+id/optionRead"
+          android:visible="true"/>
+    <item android:title="@string/optionWrite"
+          android:visible="true"
+          android:id="@+id/optopnWrite"/>
+    <item android:id="@+id/optionUpload"
+          android:visible="true"
+          android:title="Upload Image"/>
+</menu>
